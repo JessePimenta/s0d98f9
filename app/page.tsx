@@ -167,7 +167,7 @@ export default function ReleasePage() {
                         color: buttonTextColor
                       }}
                     >
-                      <Share2 className="w-4 h-4" style={{ color: buttonTextColor }} />
+                      <img src='images/shareIcon.svg' className="w-5 h-5" style={{ color: buttonTextColor }} />
                     </button>
                   </div>
 
